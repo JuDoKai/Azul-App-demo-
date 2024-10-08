@@ -1,0 +1,6 @@
+Salut, Il faudrait juste déposer le ficher .svg dans le dossier du site.
+Plus précisément dans : 
+
+images\éléments_graphiques\SVG
+
+Merci.
